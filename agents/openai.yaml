@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Code 工程协作"
+  short_description: "让工程任务按项目规则完成稳定清晰的分析修改验证交付"
+  default_prompt: "Use $claude-code-engineering-auto to handle this engineering task with project-aware workflow."
